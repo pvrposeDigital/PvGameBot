@@ -59,12 +59,12 @@ html {
 
 .navbar-item:hover {
   background-color: transparent !important;
-  color: #7289da !important;
+  color: #f7f5f6b9 !important;
 }
 
 .navbar-link:hover {
   background-color: transparent !important;
-  color: #7289da !important;
+  color: #f7f5f6b9 !important;
 }
 
 .navbar-menu {
@@ -97,7 +97,7 @@ html {
 
 nav,
 .navbar-menu {
-  background-color: #1a2634 !important;
+  background-color: #bc1a48 !important;
 }
 
 .navbar-item.nav-dark,
